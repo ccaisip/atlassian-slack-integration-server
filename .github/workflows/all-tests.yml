@@ -1,4 +1,4 @@
-name: All Unit and Integration Tests
+name: All Unit and Integration Tests  
 on:
   push:
   pull_request:
